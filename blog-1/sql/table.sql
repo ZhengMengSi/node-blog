@@ -1,3 +1,5 @@
+CREATE DATABASE `myblog` CHARACTER SET utf8 COLLATE utf8_general_ci;
+
 --use myblog;
 
 --drop table blogs;
